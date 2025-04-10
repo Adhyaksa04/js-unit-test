@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1744252055001" clover="3.2.0">
+  <project timestamp="1744252055002" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1" elements="23" coveredelements="23" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="D:\Kerja BNI\Bootcamp\Week 1\belajar-unit-test\index.js">
+      <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="48" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="52" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="54" count="6" type="stmt"/>
+      <line num="58" count="6" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
